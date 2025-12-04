@@ -1,10 +1,10 @@
-📦 Data Warehouse & Analytics Project
+👋 Welcome to My First Data Warehouse Project!
 
-This project focuses on developing a modern data warehouse using SQL Server to consolidate and analyze sales data from multiple sources.
+This repository contains my first project on GitHub, where I’m building a modern data warehouse using SQL Server to consolidate and analyze sales data from multiple sources.
+This project marks the beginning of my journey into data engineering and analytics, and I’m excited to share my progress, learn from feedback, and continuously improve.
 The solution is designed to improve data accessibility, enhance reporting capabilities, and support data-driven decision-making.
 
 🎯 Objectives
-
 Consolidate fragmented sales data into a unified warehouse.
 Improve data quality, integrity, and consistency.
 Enable efficient reporting and analytics.
