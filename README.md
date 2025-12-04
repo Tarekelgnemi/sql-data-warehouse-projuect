@@ -1,2 +1,2 @@
-# sql-data-warehouse-projuect
-Building a model data warehouse with SQL Server, data model, and data analytics.
+#Data warehouse and analytics project
+Building a model data warehouse with SQL Server, a data model, and data analytics.
